@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sumeer Ahmad
-- 👀 I’m interested in Cyber/Network Security and Web development
-- 🌱 I’m currently expanding my skills in networks.
+- 👀 I’m a PhD student interested in Cyber/Network Security and Internet measurements
 - 💞️ I’m looking to collaborate on any research/industry projects related to web or security. 
 - 📫 Please email me at sumeerahmed123@gmail.com for queries
 
